@@ -1,0 +1,61 @@
+{
+    "pop": "pop", "art-pop": "pop", "viral-pop": "pop", "dance-pop": "pop", "synthpop": "pop",
+    "electropop": "pop", "italian-pop": "pop", "classic-uk-pop": "pop", "k-pop": "pop",
+    "french-pop": "pop", "canadian-pop": "pop", "jazz-pop": "pop", "bedroom-pop": "pop",
+    "baroque-pop": "pop", "neo-mellow": "pop", "folk-pop": "pop", "new-romantic": "pop",
+    "indie-pop": "pop", "uk-pop": "pop", "chill-pop": "pop", "pop-rock": "pop",
+    "italian-adult-pop": "pop", "colombian-pop": "pop", "latin-pop": "pop", "puerto-rican-pop": "pop",
+    "singer-songwriter-pop": "pop", "nz-pop": "pop", "korean-pop": "pop", "candy-pop": "pop",
+    "trap-pop": "pop", "k-pop-boy-group": "pop", "k-pop-girl-group": "pop", "vocal-jazz-pop": "pop",
+    "australian-pop": "pop", "modern-country-pop": "pop", "pop-dance": "pop", "classic-italian-pop": "pop",
+    "contemporary-r&b-pop": "pop", "v-pop": "pop", "5th-gen-k-pop": "pop",
+    "korean-ost": "pop", "viet-idol-pop": "pop", "cantopop": "pop", "uk-alternative-pop": "pop",
+
+    "rock": "rock", "album-rock": "rock", "classic-rock": "rock", "heartland-rock": "rock",
+    "soft-rock": "rock", "yacht-rock": "rock", "modern-rock": "rock", "piano-rock": "rock",
+    "glam-rock": "rock", "psychedelic-rock": "rock", "country-rock": "rock", "folk-rock": "rock",
+    "punk-rock": "rock", "alternative-rock": "rock", "britpop": "rock", "garage-rock": "rock",
+    "country-dawn-rock": "rock", "sunshine-pop": "rock", "argentine-hip-hop-rock": "rock",
+    "brooklyn-indie-rock": "rock", "indie-folk-rock": "rock", "sheffield-indie-rock": "rock",
+    "rockabilly": "rock", "nashville-rock": "rock", "rock-viet": "rock",
+
+    "jazz": "jazz", "neo-soul": "jazz", "vocal-jazz": "jazz", "classic-jazz": "jazz", "jazz-funk": "jazz",
+    "smooth-jazz": "jazz", "soul-jazz": "jazz", "blues-jazz": "jazz", "bop-jazz": "jazz",
+
+    "classical": "classical", "vocal-harmony-group": "classical", "baroque": "classical", "orchestra": "classical",
+
+    "blues": "blues", "blues-rock": "blues", "soul": "blues", "southern-soul": "blues",
+    "electric-blues": "blues", "indie-blues": "blues", "texas-blues": "blues",
+
+    "hip-hop": "hip-hop", "chicago-hip-hop": "hip-hop", "detroit-hip-hop": "hip-hop",
+    "southern-hip-hop": "hip-hop", "atl-trap": "hip-hop", "trap": "hip-hop", "rap": "hip-hop",
+    "melodic-rap": "hip-hop", "new-york-hip-hop": "hip-hop", "west-coast-hip-hop": "hip-hop",
+    "dirty-south-rap": "hip-hop", "atlanta-hip-hop": "hip-hop", "viet-chill-rap": "hip-hop",
+    "vietnamese-hip-hop": "hip-hop", "vietnamese-melodic-rap": "hip-hop", "k-rap": "hip-hop",
+    "houston-rap": "hip-hop", "trap-queen": "hip-hop", "vietnamese-trap": "hip-hop",
+    "atl-hip-hop": "hip-hop", "south-carolina-hip-hop": "hip-hop", "urban-contemporary": "hip-hop",
+    "dfw-rap": "hip-hop", "deep-underground-hip-hop": "hip-hop", "kentucky-hip-hop": "hip-hop",
+    "pop-rap": "hip-hop", "australian-hip-hop": "hip-hop", "canadian-hip-hop": "hip-hop",
+    "dark-trap": "hip-hop", "meme-rap": "hip-hop", "melodic-drill": "hip-hop", "r&drill": "hip-hop",
+    "conscious-hip-hop": "hip-hop", "north-carolina-hip-hop": "hip-hop",
+
+    "reggae": "reggae", "reggaeton": "reggae", "urbano": "reggae", "dancehall": "reggae",
+    "caribbean-music": "reggae", "roots-reggae": "reggae", "classic-reggae": "reggae",
+
+    "electronic": "electronic", "edm": "electronic", "house": "electronic", "trance": "electronic",
+    "techno": "electronic", "dnb": "electronic", "drum-and-bass": "electronic", "electro-house": "electronic",
+    "deep-house": "electronic", "jungle": "electronic", "rave": "electronic", "dutch-edm": "electronic",
+    "viet-lo-fi": "electronic", "viet-edm": "electronic", "electronic-trap": "electronic", "viet-remix": "electronic",
+    "moombahton": "electronic",
+
+    "acoustic": "acoustic", "folk": "acoustic", "country": "acoustic", "americana": "acoustic",
+    "roots-music": "acoustic", "bluegrass": "acoustic", "acoustic-guitar": "acoustic",
+    "vietnamese-singer-songwriter": "acoustic", "bedroom-r&b": "acoustic", "bedroom-soul": "acoustic",
+
+    "indie": "pop", "singer-songwriter": "other", "celtic": "other", "latin": "other", "corrido": "other",
+    "pagode": "other", "samba": "other", "freestyle": "other", "plugg": "other", "emo": "other",
+    "trap-metal": "other", "country-dawn": "other", "emo-trap": "other", "nan": "other", "indie-viet": "other",
+    "korean-r&b": "other", "canadian-contemporary-r&b": "other", "contemporary-r&b": "other",
+    "r&b": "other", "brooklyn-indie": "other", "pov:-indie": "other", "j-division": "other", "alternative-r&b": "other",
+    "video-game-music": "other", "speedrun": "other", "r&b-en-espanol": "other"
+}
