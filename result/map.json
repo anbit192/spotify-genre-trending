@@ -55,7 +55,7 @@
     "indie": "pop", "singer-songwriter": "other", "celtic": "other", "latin": "other", "corrido": "other",
     "pagode": "other", "samba": "other", "freestyle": "other", "plugg": "other", "emo": "other",
     "trap-metal": "other", "country-dawn": "other", "emo-trap": "other", "nan": "other", "indie-viet": "other",
-    "korean-r&b": "other", "canadian-contemporary-r&b": "other", "contemporary-r&b": "other",
-    "r&b": "other", "brooklyn-indie": "other", "pov:-indie": "other", "j-division": "other", "alternative-r&b": "other",
-    "video-game-music": "other", "speedrun": "other", "r&b-en-espanol": "other"
+    "korean-r&b": "other", "canadian-contemporary-r&b": "hip-hop", "contemporary-r&b": "hip-hop",
+    "r&b": "hip-hop", "brooklyn-indie": "other", "pov:-indie": "other", "j-division": "other", "alternative-r&b": "hip-hop",
+    "video-game-music": "other", "speedrun": "other", "r&b-en-espanol": "hip-hop"
 }
