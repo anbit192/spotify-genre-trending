@@ -21,7 +21,7 @@ id,name,genre,popularity,pop,rock,jazz,classical,blues,hip-hop,reggae,electronic
 0XeEobZplHxzM9QzFQWLiR,Eslabon Armado,"corrido,corridos-tumbados,sad-sierreno,sierreno",79,0,0,0,0,0,0,0,0,0,1
 0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,"rap,slap-house",94,0,0,0,0,0,1,0,1,0,0
 0b1sIQumIAsNbqAoIClSpy,j-hope,"k-pop,k-rap",74,1,0,0,0,0,1,0,0,0,0
-0c173mlxpT3dSFRgMO8XPh,Big Sean,"detroit-hip-hop,hip-hop,pop-rap,r&b,rap,southern-hip-hop,trap",78,1,0,0,0,0,1,0,0,0,0
+0c173mlxpT3dSFRgMO8XPh,Big Sean,"detroit-hip-hop,hip-hop,pop-rap,r&b,rap,southern-hip-hop,trap",78,1,0,0,0,0,1,0,0,0,1
 0du5cEVh5yTK9QJze8zA0C,Bruno Mars,"dance-pop,pop",96,1,0,0,0,0,0,0,0,0,0
 0elWFr7TW8piilVRYJUe4P,Natanael Cano,"corrido,corridos-tumbados,musica-mexicana,sad-sierreno,sierreno",89,0,0,0,0,0,0,0,0,0,1
 0fGcIStdT1OpFFhOC7Wp36,Teezo Touchdown,,75,0,0,0,0,0,0,0,0,0,1
@@ -35,7 +35,7 @@ id,name,genre,popularity,pop,rock,jazz,classical,blues,hip-hop,reggae,electronic
 0oK8UXKZbQezeRhE0KeBAV,Henri René and His Orchestra,man's-orchestra,54,0,0,0,1,0,0,0,0,0,0
 0pePYDrJGk8gqMRbXrLJC8,Luis R Conriquez,"corrido,sad-sierreno,sierreno",87,0,0,0,0,0,0,0,0,0,1
 0sKsReKseslDlhxmbN6wLk,BabyTron,"detroit-hip-hop,scam-rap",70,0,0,0,0,0,1,0,0,0,0
-0tkHE1pQ5ZCgQb8WZ0ba79,Gaeko,"k-rap,korean-r&b",65,0,0,0,0,0,1,0,0,0,0
+0tkHE1pQ5ZCgQb8WZ0ba79,Gaeko,"k-rap,korean-r&b",65,0,0,0,0,0,1,0,0,0,1
 0tmwSHipWxN12fsoLcFU3B,Manuel Turizo,"colombian-pop,latin-pop,reggaeton,reggaeton-colombiano,trap-latino,urbano-latino",84,1,0,0,0,0,1,1,0,0,0
 0wi4yTYlGtEnbGo4ltZTib,Shakin' Stevens,"classic-uk-pop,rockabilly",57,1,1,0,0,0,0,0,0,0,0
 0xj9MJx9r0wO2o4aqdergP,DJ TOPO,"deboxe,funk-mtg,rave-funk",72,0,0,0,0,0,0,0,1,0,0
@@ -54,14 +54,14 @@ id,name,genre,popularity,pop,rock,jazz,classical,blues,hip-hop,reggae,electronic
 19k8AgwwTSxeaxkOuCQEJs,Jelly Roll,"country-rap,modern-country-pop,nashville-hip-hop,tennessee-hip-hop",83,1,0,0,0,0,1,0,0,0,0
 1AwO9pWEBSBoWdEZu28XDC,Eartha Kitt,"torch-song,vocal-jazz",58,0,0,1,0,0,0,0,0,0,0
 1Cs0zKBU1kc0i8ypK3B9ai,David Guetta,"big-room,dance-pop,edm,pop,pop-dance",90,1,0,0,0,0,0,0,1,0,0
-1Do4bSzfUl0KWL9r1fITu0,YOON MIRAE,"k-pop,korean-ost,korean-pop,korean-r&b",65,1,0,0,0,0,0,0,0,0,0
+1Do4bSzfUl0KWL9r1fITu0,YOON MIRAE,"k-pop,korean-ost,korean-pop,korean-r&b",65,1,0,0,0,0,0,0,0,0,1
 1GxkXlMwML1oSg5eLPiAz3,Michael Bublé,"adult-standards,canadian-pop,jazz-pop,lounge",78,1,0,0,0,0,0,0,0,0,0
 1HY2Jd0NmPuamShAr6KMms,Lady Gaga,"art-pop,dance-pop,pop",92,1,0,0,0,0,0,0,0,0,0
 1K7IC4qha4KEXySo6yZmnH,Michelangelo,,60,0,0,0,0,0,0,0,0,0,1
 1McMsnEElThX1knmY4oliG,Olivia Rodrigo,pop,89,1,0,0,0,0,0,0,0,0,0
 1Ml4OuStDoympbREURAM15,The Fontane Sisters,"deep-adult-standards,vocal-harmony-group",56,0,0,0,1,0,0,0,0,0,0
 1Mxqyy3pSjf8kZZL4QVxS0,Frank Sinatra,"adult-standards,easy-listening,lounge",80,0,0,0,0,0,0,0,0,0,1
-1QsdzIKkTT5gDFj8GB1cIX,Yseult,"french-pop,r&b-francais",74,1,0,0,0,0,0,0,0,0,0
+1QsdzIKkTT5gDFj8GB1cIX,Yseult,"french-pop,r&b-francais",74,1,0,0,0,0,0,0,0,0,1
 1RyvyyTE3xzB2ZywiAwp0i,Future,"atl-hip-hop,hip-hop,rap,southern-hip-hop,trap",93,0,0,0,0,0,1,0,0,0,0
 1SIocsqdEefUTE6XKGUiVS,BABYMONSTER,5th-gen-k-pop,77,1,0,0,0,0,0,0,0,0,0
 1TA5sGRlKUJXBN4ZyJuDIX,Blessd,"reggaeton,urbano-latino",82,0,0,0,0,0,0,1,0,0,0
@@ -70,7 +70,7 @@ id,name,genre,popularity,pop,rock,jazz,classical,blues,hip-hop,reggae,electronic
 1URnnhqYAYcrqrcwql10ft,21 Savage,"atl-hip-hop,hip-hop,rap",89,0,0,0,0,0,1,0,0,0,0
 1UTPBmNbXNTittyMJrNkvw,Blake Shelton,"classic-oklahoma-country,contemporary-country,country,country-road",73,0,0,0,0,0,0,0,0,1,0
 1WaFQSHVGZQJTbf0BdxdNo,Tommy Richman,chill-abstract-hip-hop,79,0,0,0,0,0,1,0,0,0,0
-1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,"canadian-contemporary-r&b,canadian-pop,pop",96,1,0,0,0,0,0,0,0,0,0
+1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,"canadian-contemporary-r&b,canadian-pop,pop",96,1,0,0,0,0,0,0,0,0,1
 1Yj5Xey7kTwvZla8sqdsdE,Cris Mj,"mambo-chileno,trap-latino,urbano-chileno,urbano-latino",88,0,0,0,0,0,1,1,0,0,0
 1bfl0AU8SqmLkElptOprhC,Julión Álvarez y su Norteño Banda,"banda,musica-mexicana,norteno,sad-sierreno",85,0,0,0,0,0,0,0,0,0,1
 1c3uso4iIeeX3P0bhKaQDq,Jaxomy,,67,0,0,0,0,0,0,0,0,0,1
@@ -95,7 +95,7 @@ id,name,genre,popularity,pop,rock,jazz,classical,blues,hip-hop,reggae,electronic
 1yxSLGMDHlW21z4YXirZDS,Black Eyed Peas,"dance-pop,pop,pop-rap",81,1,0,0,0,0,0,0,0,0,0
 20wkVLutqVOYrc0kxFs7rA,Daniel Caesar,canadian-contemporary-r&b,87,0,0,0,0,0,0,0,0,0,1
 22wbnEMDvgVIAGdFeek6ET,Benson Boone,singer-songwriter-pop,86,1,0,0,0,0,0,0,0,0,0
-23zg3TcAtWQy7J6upgbUnj,USHER,"atl-hip-hop,contemporary-r&b,dance-pop,pop,r&b,rap,south-carolina-hip-hop,urban-contemporary",83,1,0,0,0,0,1,0,0,0,0
+23zg3TcAtWQy7J6upgbUnj,USHER,"atl-hip-hop,contemporary-r&b,dance-pop,pop,r&b,rap,south-carolina-hip-hop,urban-contemporary",83,1,0,0,0,0,1,0,0,0,1
 246dkjvS1zLTtiykXe5h60,Post Malone,"dfw-rap,melodic-rap,pop,rap",91,1,0,0,0,0,1,0,0,0,0
 250b0Wlc5Vk0CoUsaCY84M,JENNIE,k-pop,83,1,0,0,0,0,0,0,0,0,0
 25uiPmTg16RbhZWAqwLBy5,Charli xcx,"art-pop,candy-pop,metropopolis,pop,uk-pop",89,1,0,0,0,0,0,0,0,0,0
@@ -109,7 +109,7 @@ id,name,genre,popularity,pop,rock,jazz,classical,blues,hip-hop,reggae,electronic
 2CKOmarVWvWqkNWUatHCex,Ana Castela,"agronejo,sertanejo,sertanejo-pop,sertanejo-universitario",81,1,0,0,0,0,0,0,0,0,0
 2DFCHTDIA0t638a4mm37dK,Raj Shekhar,modern-bollywood,67,0,0,0,0,0,0,0,0,0,1
 2DaxqgrOhkeH0fpeiQq2f4,Oasis,"beatlesque,britpop,madchester,permanent-wave,rock",82,0,1,0,0,0,0,0,0,0,0
-2EMAnMvWE2eb56ToJVfCWs,Bryson Tiller,"kentucky-hip-hop,r&b,rap",83,0,0,0,0,0,1,0,0,0,0
+2EMAnMvWE2eb56ToJVfCWs,Bryson Tiller,"kentucky-hip-hop,r&b,rap",83,0,0,0,0,0,1,0,0,0,1
 2FXC3k01G6Gw61bmprjgqS,Hozier,"irish-singer-songwriter,modern-rock,pop,pov:-indie",86,1,1,0,0,0,0,0,0,0,1
 2KZFvVVk9lxD85USaOv76T,Gustavo Moura & Rafael,sertanejo-pop,58,1,0,0,0,0,0,0,0,0,0
 2LIk90788K0zvyj2JJVwkJ,Jack Harlow,"deep-underground-hip-hop,hip-hop,kentucky-hip-hop,pop-rap,rap",80,1,0,0,0,0,1,0,0,0,0
@@ -120,7 +120,7 @@ id,name,genre,popularity,pop,rock,jazz,classical,blues,hip-hop,reggae,electronic
 2auC28zjQyVTsiZKNgPRGs,RM,k-rap,77,0,0,0,0,0,1,0,0,0,0
 2cBh5lVMg222FFuRU7EfDE,Sophie Ellis-Bextor,"dance-pop,europop,new-wave-pop",69,1,0,0,0,0,0,0,0,0,0
 2dIgFjalVxs4ThymZ67YCE,Stray Kids,"k-pop,k-pop-boy-group,pop",85,1,0,0,0,0,0,0,0,0,0
-2e4G04F77jxVuDYo44TCSm,Loco,"k-pop,k-rap,korean-r&b",67,1,0,0,0,0,1,0,0,0,0
+2e4G04F77jxVuDYo44TCSm,Loco,"k-pop,k-rap,korean-r&b",67,1,0,0,0,0,1,0,0,0,1
 2hlmm7s2ICUX0LVIhVFlZQ,Gunna,"atl-hip-hop,melodic-rap,rap,trap",87,0,0,0,0,0,1,0,0,0,0
 2iE18Oxc8YSumAU232n4rW,The Jackson 5,"motown,soul",67,0,0,0,0,1,0,0,0,0,0
 2jzc5TC5TVFLXQlBNiIUzE,a-ha,"new-romantic,new-wave,new-wave-pop,permanent-wave,synthpop",73,1,0,0,0,0,0,0,0,0,0
@@ -152,7 +152,7 @@ id,name,genre,popularity,pop,rock,jazz,classical,blues,hip-hop,reggae,electronic
 3DbwFQlvLxRSi2uX8mf81A,Sexyy Red,trap-queen,80,0,0,0,0,0,1,0,0,0,0
 3E12tRURRvPfHz0hAMCFYc,Omar Courtz,"trap-boricua,trap-latino,urbano-latino",82,0,0,0,0,0,1,1,0,0,0
 3IJ21966TwNZI24MwZHMu4,Baby Tate,trap-queen,67,0,0,0,0,0,1,0,0,0,0
-3JsHnjpbhX4SnySpvpa9DK,V,"j-division,korean-ost",83,0,0,0,0,0,0,0,0,0,1
+3JsHnjpbhX4SnySpvpa9DK,V,"j-division,korean-ost",83,1,0,0,0,0,0,0,0,0,1
 3L6bhGrHegoci41Jx2nP0V,Bump J,chicago-rap,45,0,0,0,0,0,1,0,0,0,0
 3LZZPxNDGDFVSIPqf4JuEf,Ice Spice,bronx-drill,75,0,0,0,0,0,0,0,0,0,1
 3MdXrJWsbVzdn6fe5JYkSQ,Latto,trap-queen,80,0,0,0,0,0,1,0,0,0,0
@@ -169,7 +169,7 @@ id,name,genre,popularity,pop,rock,jazz,classical,blues,hip-hop,reggae,electronic
 3bO19AOone0ubCsfDXDtYt,Myles Smith,singer-songwriter-pop,79,1,0,0,0,0,0,0,0,0,0
 3eVa5w3URK5duf6eyVDbu9,ROSÉ,k-pop,84,1,0,0,0,0,0,0,0,0,0
 3eqjTLE0HfPfh78zjh6TqT,Bruce Springsteen,"heartland-rock,mellow-gold,permanent-wave,rock,singer-songwriter",79,0,1,0,0,0,0,0,0,0,1
-3fMbdgg4jU18AjLCKBhRSm,Michael Jackson,"r&b,soul",86,0,0,0,0,1,0,0,0,0,0
+3fMbdgg4jU18AjLCKBhRSm,Michael Jackson,"r&b,soul",86,0,0,0,0,1,0,0,0,0,1
 3hcs9uc56yIGFCSy9leWe7,Lil Durk,"chicago-drill,chicago-rap,drill,hip-hop,pop-rap,rap,trap",82,1,0,0,0,0,1,0,0,0,0
 3ipn9JLAPI5GUEo4y4jcoi,Ludacris,"atl-hip-hop,dance-pop,dirty-south-rap,hip-hop,old-school-atlanta-hip-hop,pop-rap,rap,southern-hip-hop,trap",79,1,0,0,0,0,1,0,0,0,0
 3l9G1G9MxH6DaRhwLklaf5,Oscar Maydon,corrido,87,0,0,0,0,0,0,0,0,0,1
@@ -179,7 +179,7 @@ id,name,genre,popularity,pop,rock,jazz,classical,blues,hip-hop,reggae,electronic
 3qiHUAX7zY4Qnjx8TNUzVx,Yeat,"pluggnb,rage-rap",84,0,0,0,0,0,1,0,0,0,0
 3qsKSpcV3ncke3hw52JSMB,Young Miko,"trap-latino,urbano-latino",80,0,0,0,0,0,1,1,0,0,0
 3qvcCP2J0fWi0m0uQDUf6r,Luan Santana,"arrocha,sertanejo,sertanejo-universitario",79,0,0,0,0,0,0,0,0,0,1
-3tlXnStJ1fFhdScmQeLpuG,Brent Faiyaz,"r&b,rap",86,0,0,0,0,0,1,0,0,0,0
+3tlXnStJ1fFhdScmQeLpuG,Brent Faiyaz,"r&b,rap",86,0,0,0,0,0,1,0,0,0,1
 3uwAm6vQy7kWPS2bciKWx9,girl in red,"bedroom-pop,indie-pop,norwegian-indie,pov:-indie",78,1,0,0,0,0,0,0,0,0,0
 3wagsd3wjqjNVlMLPudipm,Rumi Carter,,43,0,0,0,0,0,0,0,0,0,1
 3xs0LEzcPXtgNfMNcHzLIP,Rockwell,,68,0,0,0,0,0,0,0,0,0,1
@@ -193,7 +193,7 @@ id,name,genre,popularity,pop,rock,jazz,classical,blues,hip-hop,reggae,electronic
 47z98pKd71yIbgXwe9LPVC,Bernadya,,83,0,0,0,0,0,0,0,0,0,1
 49e4v89VmlDcFCMyDv9wQ9,Dean Martin,"adult-standards,easy-listening,lounge,vocal-jazz",72,0,0,1,0,0,0,0,0,0,0
 4AK6F7OLvEQ5QYCBNiQWHq,One Direction,"boy-band,pop,post-teen-pop,talent-show",91,1,0,0,0,0,0,0,0,0,0
-4ClziihVpBeFXNyDH83Lde,UMI,"alternative-r&b,bedroom-soul",62,1,0,0,0,0,0,0,0,0,0
+4ClziihVpBeFXNyDH83Lde,UMI,"alternative-r&b,bedroom-soul",62,0,0,0,0,1,0,0,0,0,1
 4E2rKHVDssGJm2SCDOMMJB,Doechii,alternative-r&b,76,0,0,0,0,0,0,0,0,0,1
 4GNC7GD6oZMSxPGyXy4MNB,Lewis Capaldi,"pop,uk-pop",81,1,0,0,0,0,0,0,0,0,0
 4Gso3d4CscCijv0lmajZWs,Don Toliver,rap,88,0,0,0,0,0,1,0,0,0,0
@@ -210,7 +210,7 @@ id,name,genre,popularity,pop,rock,jazz,classical,blues,hip-hop,reggae,electronic
 4frDtYgwXXKkbyQzjOmJG5,The Crypt-Kickers,,67,0,0,0,0,0,0,0,0,0,1
 4gvjmrtzydbMpyJaXUtwvP,Addison Rae,social-media-pop,76,1,0,0,0,0,0,0,0,0,0
 4gzpq5DPGxSnKTe4SA8HAU,Coldplay,"permanent-wave,pop",92,1,0,0,0,0,0,0,0,0,0
-4iHNK0tOyZPYnBU7nGAgpQ,Mariah Carey,"dance-pop,pop,urban-contemporary",81,1,0,0,0,0,0,0,0,0,0
+4iHNK0tOyZPYnBU7nGAgpQ,Mariah Carey,"dance-pop,pop,urban-contemporary",81,1,0,0,0,0,1,0,0,0,0
 4j96cMcT8GRi11qbvo1cLQ,Michael Marcagi,,73,0,0,0,0,0,0,0,0,0,1
 4jpqm8g4We93Uk6M9M4FDh,Reyna Roberts,black-americana,49,0,0,0,0,0,0,0,0,1,0
 4lY2DXvRv9RPeFcUtn6PUh,HEARTSTEEL,,52,0,0,0,0,0,0,0,0,0,1
@@ -231,15 +231,15 @@ id,name,genre,popularity,pop,rock,jazz,classical,blues,hip-hop,reggae,electronic
 540vIaP2JwjQb9dm3aArA4,DJ Snake,"dance-pop,edm,electronic-trap,pop,pop-dance",79,1,0,0,0,0,1,0,1,0,0
 54seKvtsZauR1iauN0ptpo,De La Rose,"trap-latino,urbano-latino",79,0,0,0,0,0,1,1,0,0,0
 55Aa2cqylxrFIXC767Z865,Lil Wayne,"hip-hop,new-orleans-rap,pop-rap,rap,trap",88,1,0,0,0,0,1,0,0,0,0
-5H4yInM5zmHqpKIoMNAx4r,Central Cee,"melodic-drill,r&drill",82,0,0,0,0,0,0,0,0,0,1
+5H4yInM5zmHqpKIoMNAx4r,Central Cee,"melodic-drill,r&drill",82,0,0,0,0,0,1,0,0,0,0
 5HK6QtizXJzCmoYTkvFRik,Ndotz,chill-drill,74,0,0,0,0,0,0,0,0,0,1
 5HeN1Iza4nZe03sFlonddz,Eugenio Esquivel,,62,0,0,0,0,0,0,0,0,0,1
 5IcR3N7QB1j6KBL8eImZ8m,ScHoolboy Q,"gangster-rap,hip-hop,pop-rap,rap,southern-hip-hop,trap",78,1,0,0,0,0,1,0,0,0,0
 5K4W6rqBFWDnAN6FQUkS6x,Kanye West,"chicago-rap,hip-hop,rap",93,0,0,0,0,0,1,0,0,0,0
 5KEG7G8LDYlHgFDqZyEEs2,Chris Rea,"soft-rock,sophisti-pop",62,1,1,0,0,0,0,0,0,0,0
-5KKpBU5eC2tJDzf0wmlRp2,RAYE,"uk-contemporary-r&b,uk-pop",79,1,0,0,0,0,0,0,0,0,0
+5KKpBU5eC2tJDzf0wmlRp2,RAYE,"uk-contemporary-r&b,uk-pop",79,1,0,0,0,0,0,0,0,0,1
 5L1lO4eRHmJ7a0Q6csE5cT,LISA,k-pop,84,1,0,0,0,0,0,0,0,0,0
-5MraexJKZDrQYzS98kNwie,Sevdaliza,"alternative-r&b,persian-electronic",77,0,0,0,0,0,0,0,1,0,0
+5MraexJKZDrQYzS98kNwie,Sevdaliza,"alternative-r&b,persian-electronic",77,0,0,0,0,0,0,0,1,0,1
 5OCZWZ399lBKgxBxE8cjRM,Willie Jones,"black-americana,contemporary-country",48,0,0,0,0,0,0,0,0,1,0
 5Pwc4xIPtQLFEnJriah9YJ,OneRepublic,"piano-rock,pop",85,1,1,0,0,0,0,0,0,0,0
 5VadK1havLhK1OpKYsXv9y,D-Block Europe,"melodic-drill,uk-hip-hop",76,0,0,0,0,0,1,0,0,0,0
@@ -255,7 +255,7 @@ id,name,genre,popularity,pop,rock,jazz,classical,blues,hip-hop,reggae,electronic
 5ixB75BQR3ADoWQkcHQJTs,Gene Autry,"classic-oklahoma-country,cowboy-western,traditional-country,yodeling",56,0,0,0,0,0,0,0,0,1,0
 5lpH0xAS4fVfLkACg9DAuM,Wham!,"new-romantic,new-wave,new-wave-pop,soft-rock",72,1,1,0,0,0,0,0,0,0,0
 5p9HO3XC5P3BLxJs5Mtrhm,Djo,"pov:-indie,psychedelic-pop",76,1,0,0,0,0,0,0,0,0,0
-5pKCCKE2ajJHZ9KAiaK11H,Rihanna,"barbadian-pop,pop,urban-contemporary",92,1,0,0,0,0,0,0,0,0,0
+5pKCCKE2ajJHZ9KAiaK11H,Rihanna,"barbadian-pop,pop,urban-contemporary",92,1,0,0,0,0,1,0,0,0,0
 5v8jlSmAQfrkTjAlpUfWtu,Perry Como,"adult-standards,easy-listening",63,0,0,0,0,0,0,0,0,0,1
 5vV3bFXnN6D6N3Nj4xRvaV,Jin,k-pop,81,1,0,0,0,0,0,0,0,0,0
 5wCmhq5J2hPwL2r0eKurxn,cassö,"hypertechno,pop-dance",71,1,0,0,0,0,0,0,0,0,0
@@ -306,7 +306,7 @@ id,name,genre,popularity,pop,rock,jazz,classical,blues,hip-hop,reggae,electronic
 6tbjWDEIzxoDsBA1FuhfPW,Madonna,"dance-pop,pop",81,1,0,0,0,0,0,0,0,0,0
 6tzRZ39aZlNqlUzQlkuhDV,Pabllo Vittar,"dance-pop,funk-carioca,funk-pop,pop-lgbtq+-brasileira,pop-nacional",76,1,0,0,0,0,0,0,0,0,0
 6uzHLlGqFKaXYOnZyYmXYg,LOUKI,,73,0,0,0,0,0,0,0,0,0,1
-6vWDO969PvNqNYHIOW5v0m,Beyoncé,"pop,r&b",87,1,0,0,0,0,0,0,0,0,0
+6vWDO969PvNqNYHIOW5v0m,Beyoncé,"pop,r&b",87,1,0,0,0,0,0,0,0,0,1
 6w71vXwHI2Oz6I5OO41tRM,LaToiya Williams,,69,0,0,0,0,0,0,0,0,0,1
 6w9ToX5slZ4uIdmD17hJ3c,Bryant Myers,"reggaeton,reggaeton-flow,trap-latino,urbano-latino",83,0,0,0,0,0,1,1,0,0,0
 70gP6Ry4Uo0Yx6uzPIdaiJ,Bas,"queens-hip-hop,sudanese-hip-hop,sudanese-pop,underground-hip-hop",66,1,0,0,0,0,1,0,0,0,0
@@ -333,7 +333,7 @@ id,name,genre,popularity,pop,rock,jazz,classical,blues,hip-hop,reggae,electronic
 7K78lVZ8XzkjfRSI7570FF,José Feliciano,"latin-pop,puerto-rican-pop",65,1,0,0,0,0,0,0,0,0,0
 7Ln80lUS6He07XvHI8qqHH,Arctic Monkeys,"garage-rock,modern-rock,permanent-wave,rock,sheffield-indie",88,1,1,0,0,0,0,0,0,0,0
 7LzTBVNarOeaDXFdzOugAI,Sly Pyper,,58,0,0,0,0,0,0,0,0,0,1
-7c0XG5cIJTrrAgEC3ULPiq,Ty Dolla $ign,"hip-hop,pop-rap,r&b,southern-hip-hop,trap,trap-soul",84,1,0,0,0,1,1,0,0,0,0
+7c0XG5cIJTrrAgEC3ULPiq,Ty Dolla $ign,"hip-hop,pop-rap,r&b,southern-hip-hop,trap,trap-soul",84,1,0,0,0,1,1,0,0,0,1
 7dGJo4pcD2V6oG8kP0tJRR,Eminem,"detroit-hip-hop,hip-hop,rap",93,0,0,0,0,0,1,0,0,0,0
 7dzq55YG3wjViqexDwiycQ,Ivete Sangalo,"arrocha,axe,mpb,pagode,pop-nacional,samba-reggae,sertanejo-universitario",65,1,0,0,0,0,0,1,0,0,1
 7gOdHgIoIKoe4i9Tta6qdD,Jonas Brothers,"boy-band,pop",75,1,0,0,0,0,0,0,0,0,0
@@ -342,10 +342,10 @@ id,name,genre,popularity,pop,rock,jazz,classical,blues,hip-hop,reggae,electronic
 7iMvwE8qANp3aIfAGKEAwS,Cam'ron,"battle-rap,east-coast-hip-hop,harlem-hip-hop,southern-hip-hop",61,0,0,0,0,0,1,0,0,0,0
 7j6DKwmjbxvpQO8h914uEz,Ryan Castro,"reggaeton,trap-colombiano,trap-latino,urbano-latino",79,0,0,0,0,0,1,1,0,0,0
 7jAs1uPnpfNmT6e5qtEPxq,ATL Jacob,,74,0,0,0,0,0,0,0,0,0,1
-7ltDVBr6mKbRvohxheJ9h1,ROSALÍA,"pop,r&b-en-espanol",81,1,0,0,0,0,0,0,0,0,0
+7ltDVBr6mKbRvohxheJ9h1,ROSALÍA,"pop,r&b-en-espanol",81,1,0,0,0,0,0,0,0,0,1
 7o95ZoZt5ZYn31e9z1Hc0a,Natasha Bedingfield,"dance-pop,pop,post-teen-pop",75,1,0,0,0,0,0,0,0,0,0
 7sfl4Xt5KmfyDs2T3SVSMK,Lil Jon,"atl-hip-hop,crunk,dance-pop,dirty-south-rap,old-school-atlanta-hip-hop,pop-rap,southern-hip-hop,trap",75,1,0,0,0,0,1,0,0,0,0
-7tYKF4w9nC0nq9CsPZTHyP,SZA,"pop,r&b,rap",90,1,0,0,0,0,1,0,0,0,0
+7tYKF4w9nC0nq9CsPZTHyP,SZA,"pop,r&b,rap",90,1,0,0,0,0,1,0,0,0,1
 7uMDnSZyUYNBPLhPMNuaM2,Kenya Grace,singer-songwriter-pop,69,1,0,0,0,0,0,0,0,0,0
 7v4imS0moSyGdXyLgVTIV7,Nat King Cole,"adult-standards,easy-listening,lounge,soul,swing,vocal-jazz",72,0,0,1,0,1,0,0,0,0,0
 6V5fHkuCfZknzDBr5Wm7Rj,leftovermax,,85,0,0,0,0,0,0,0,0,0,1
